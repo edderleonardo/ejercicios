@@ -1,0 +1,32 @@
+
+1.- Escribir un programa llamado imc.py que pida al usuario su peso (en kg) y estatura (en metros), calcule el índice de masa corporal y lo almacene en una variable, e imprima por pantalla la frase Tu índice de masa corporal es <imc> y tienes <rango>
+Donde <imc> es el índice de masa corporal calculado redondeado con dos decimales.
+Y <rango> es la descripción del indice corporal
+
+Formula para el IMC peso * altura 2
+
+2.- Escribir un programa llamada secreto.py que almacene una palabra en una variable y pregunte al usuario por la palabra e imprima por pantalla si la palabra introducida por el usuario coincide con la guardada en la variable sin tener en cuenta mayúsculas y minúsculas
+
+
+3.- Escribir un programa llamado tabla.py y que muestre por pantalla la tabla de multiplicar de un número dado
+
+4.- Escribir un programa llamado materias.py que pida el numero de asignaturas que se desean agregar, 
+Que pida el nombre de las asignaturas dadas y las almacene en una lista y la muestre por pantalla
+
+Ejemplo: Cuantas asignaturas deseas introducir: 5
+
+Dame la primera asignatura: Matemáticas
+Dame la primera asignatura: Física
+Dame la primera asignatura: Química
+Dame la primera asignatura: Historia
+Dame la primera asignatura: Lengua
+
+Tus materias son: Matemáticas, Física, Química, Historia y Lengua
+
+
+5.- Escribir un programa llamado diccionario.py que pregunte al usuario su nombre, edad, dirección y teléfono y lo guarde en un diccionario. Después debe mostrar por pantalla el mensaje
+<nombre> tiene <edad> años, vive en <dirección> y su número de teléfono es <teléfono>.
+
+6.- Escribir una función llamada saludo.py a la que se le pase una cadena <nombre> y muestre por pantalla el saludo ¡hola <nombre>!.
+
+7.- Escribir una función llamada descuento.py que reciba como parámetros la cantidad y el descuento y aplicar, es valido recibir un diccionario de la sig. forma: datos = {"descuento": 15, "importe": 2500}
