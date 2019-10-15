@@ -15,11 +15,11 @@ Que pida el nombre de las asignaturas dadas y las almacene en una lista y la mue
 
 Ejemplo: Cuantas asignaturas deseas introducir: 5
 
-Dame la primera asignatura: Matemáticas
-Dame la primera asignatura: Física
-Dame la primera asignatura: Química
-Dame la primera asignatura: Historia
-Dame la primera asignatura: Lengua
+Dame la primera(1) asignatura: Matemáticas
+Dame la segunda(2) asignatura: Física
+Dame la tercera(3) asignatura: Química
+Dame la cuerta(4) asignatura: Historia
+Dame la quinta(5) asignatura: Lengua
 
 Tus materias son: Matemáticas, Física, Química, Historia y Lengua
 
